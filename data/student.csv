@@ -1,9 +1,9 @@
 id,name,class,mark,gender
-1,John Deo,Four,75,female
+1,John Deo,Four,,female
 2,Max Ruin,Three,85,male
 3,Arnold,Three,55,male
-4,Krish Star,Four,60,female
-5,John Mike,Four,60,female
+4,Krish Star,Four,60,
+5,John Mike,Four,60,
 6,Alex John,Four,55,male
 7,My John Rob,Fifth,78,male
 8,Asruid,Five,85,male
@@ -11,11 +11,11 @@ id,name,class,mark,gender
 10,Big John,Four,55,
 11,Ronald,Six,89,female
 12,Recky,Six,94,female
-13,Kty,Seven,88,female
-14,Bigy,Seven,88,female
+13,Kty,Seven,,female
+14,Bigy,Seven,,female
 15,Tade Row,Four,88,male
 16,Gimmy,Four,88,male
-17,Tumyu,Six,54,male
+17,Tumyu,Six,,male
 18,Honny,Five,75,male
 19,Tinny,Nine,18,male
 20,Jackly,Nine,65,female
