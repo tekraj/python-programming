@@ -28,3 +28,4 @@ except ZeroDivisionError as e:
 
 
 db = Database('localhost','root','root@123','students')
+
