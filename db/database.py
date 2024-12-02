@@ -1,7 +1,7 @@
 import pymysql
 
 class Database:
-    def __init__(self, host, user, password, database):
+    def __init__(self, host, user, password, database,port=3306):
         self.connection = None
         try:
             self.connection = pymysql.connect(
@@ -9,7 +9,8 @@ class Database:
                 user=user,
                 password=password,
                 database=database,
-                cursorclass=pymysql.cursors.DictCursor
+                cursorclass=pymysql.cursors.DictCursor,
+                port=port
             )
         except pymysql.MySQLError as e:
             print(f"Error: {e}")

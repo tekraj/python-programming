@@ -1,0 +1,17 @@
+version: '3.8'
+services:
+ db:
+    image: mariadb
+    container_name: maria_db
+    restart: always
+    cap_add: # suppresses  not useful error messages.
+      - SYS_NICE
+    environment:
+      MYSQL_ROOT_PASSWORD: vfgetew2234*Wew
+      MYSQL_DATABASE: students
+      MYSQL_USER: student
+      MYSQL_PASSWORD: xyz344324wW
+    ports:
+      - '3307:3306'                    
+    volumes:
+      - ./volumes/mariadb:/var/lib/mysql      
