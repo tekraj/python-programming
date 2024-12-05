@@ -1,4 +1,3 @@
-version: '3.8'
 services:
  db:
     image: mariadb
@@ -7,10 +6,10 @@ services:
     cap_add: # suppresses  not useful error messages.
       - SYS_NICE
     environment:
-      MYSQL_ROOT_PASSWORD: vfgetew2234*Wew
+      MYSQL_ROOT_PASSWORD: root_password
       MYSQL_DATABASE: students
       MYSQL_USER: student
-      MYSQL_PASSWORD: xyz344324wW
+      MYSQL_PASSWORD: user_password
     ports:
       - '3307:3306'                    
     volumes:

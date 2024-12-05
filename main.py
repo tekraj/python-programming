@@ -1,6 +1,6 @@
 import math
 import logging
-from db.database import Database
+from db.user import create_student_table, get_users, insert_users
 from mathematics.trigonometry import cosine, sine
 
 
@@ -26,5 +26,10 @@ except ZeroDivisionError as e:
     logging.error(f"Error: {e}")
 
 
+# create user table
+create_student_table()
+# insert user
+insert_users('tekrajpant@gmail.com','test@123')
 
-db = Database('localhost','root','root@123','students')
+users = get_users()
+print(users)
