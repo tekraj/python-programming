@@ -1,0 +1,121 @@
+Rank,Manufacturer,Model,Form Factor,Smartphone?,Year,Units Sold (million )
+1,Nokia,1100,Bar,FALSE,2003,250
+2,Nokia,1110,Bar,FALSE,2005,247.5
+3,Apple,iPhone 6 & 6 Plus,Touchscreen,TRUE,2014,222.4
+4,Nokia,105 Series,Bar,FALSE,2013,200
+5,Apple,iPhone 6S & 6S Plus,Touchscreen,TRUE,2015,174.1
+6,Apple,iPhone 5S,Touchscreen,TRUE,2013,164.5
+7,Nokia,3210,Bar,FALSE,1999,161
+8,Apple,iPhone 7 & 7 Plus,Touchscreen,TRUE,2016,159.9
+9,Apple,"iPhone11, 11Pro & 11Pro Max",Touchscreen,TRUE,2019,159.2
+10,Apple,"iPhone XR, iPhone XS & iPhone XS Max",Touchscreen,TRUE,2018,151.1
+11,Nokia,6600,Bar,TRUE,2003,150
+12,Nokia,1200,Bar,FALSE,2007,150
+13,Nokia,5230,Touchscreen,TRUE,2009,150
+14,Samsung,E1100,Bar,FALSE,2009,150
+15,Apple,iPhone5,Touchscreen,TRUE,2012,146.2
+16,Nokia,2600(2610/2626/2630),Bar,FALSE,2004,135
+17,Motorola,RAZRV3,Flip phone,FALSE,2004,130
+18,Nokia,1600(1650/1661),Bar,FALSE,2005,130
+19,Nokia,3310(3330),Bar,FALSE,2000,126
+20,Apple,iPhone 8 & 8 Plus,Touchscreen,TRUE,2017,124.7
+21,Apple,"iPhone 12, 12 mini ,12 Pro & 12 Pro Max",Touchscreen,TRUE,2020,100
+22,Nokia,1208(1209),Bar,FALSE,2007,100
+23,Nokia,1280,Bar,FALSE,2010,100
+24,Nokia,6010(6020/6030),Bar,FALSE,2004,75
+25,Samsung,Galaxy S III & Galaxy S III Mini,Touchscreen,TRUE,2012,70
+26,Samsung,Galaxy S4,Touchscreen,TRUE,2013,70
+27,Nokia,5130(5220/5310),Bar,FALSE,2007,65
+28,Apple,iPhone X,Touchscreen,TRUE,2017,63
+29,Apple,iPhone 4S,Touchscreen,TRUE,2011,60
+30,Motorola,StarTAC,Flip phone,FALSE,1996,60
+31,Motorola,C200,Bar,FALSE,2003,60
+32,Motorola,C139,Bar,FALSE,2005,60
+33,Samsung,Galaxy S7 & Galaxy S7 edge,Touchscreen,TRUE,2016,55
+34,Nokia,3100(3120),Bar,FALSE,2003,50
+35,Nokia,6230(6233),Bar,FALSE,2004,50
+36,Apple,iPhone 4,Touchscreen,TRUE,2010,50
+37,Nokia,6300,Bar,FALSE,2006,47
+38,Samsung,Galaxy S6 & Galaxy S6 edge,Touchscreen,TRUE,2015,45
+39,Nokia,N70(N72/N73),Bar,TRUE,2005,45
+40,Samsung,Galaxy S8 & Galaxy S8+,Touchscreen,TRUE,2017,41
+41,Samsung,Galaxy S II,Touchscreen,TRUE,2011,40
+42,Samsung,"Galaxy S10, Galaxy S10+ & Galaxy S10e",Touchscreen,TRUE,2019,37
+43,Samsung,Galaxy S9 & Galaxy S9+,Touchscreen,TRUE,2018,35.4
+44,Nokia,2650,Flip phone,FALSE,2004,35
+45,Apple,iPhone 3GS,Touchscreen,TRUE,2009,35
+46,Huawei,"P20, P20 Pro & P20 Lite",Touchscreen,TRUE,2018,32
+47,Samsung,Galaxy A10,Touchscreen,TRUE,2019,30.3
+48,Samsung,E250,Slider,FALSE,2006,30
+49,LG,KP100,Bar,FALSE,2008,30
+50,Samsung,Galaxy Note II,Touchscreen,TRUE,2012,30
+51,Nokia,5200(5300),Slider,FALSE,2006,30
+52,Xiaomi,Redmi Note 8 & Redmi Note 8 Pro,Touchscreen,TRUE,2019,30
+53,Apple,iPhone 12 Pro Max,Touchscreen,TRUE,2020,29
+54,Samsung,"Galaxy S20, Galaxy S20+ & Galaxy S20 Ultra",Touchscreen,TRUE,2020,28
+55,Samsung,Galaxy S,Touchscreen,TRUE,2010,25
+56,Samsung,Galaxy Grand Prime Plus,Touchscreen,TRUE,2016,24.2
+57,Samsung,Galaxy A50,Touchscreen,TRUE,2019,24.2
+58,Apple,iPhone SE (2nd generation),Touchscreen,TRUE,2020,24.2
+59,Samsung,Galaxy A51,Touchscreen,TRUE,2019,23.2
+60,Samsung,Galaxy A20,Touchscreen,TRUE,2019,23.1
+61,LG,Chocolate VX8500,Slider,FALSE,2006,21
+62,Nokia,2100,Bar,FALSE,2003,20
+63,Xiaomi,Redmi Note 7 & Redmi Note 7 Pro,Touchscreen,TRUE,2019,20
+64,Huawei,P30 & P30 Pro,Touchscreen,TRUE,2019,20
+65,Samsung,Galaxy A21s,Touchscreen,TRUE,2020,19.4
+66,Huawei,Mate 10 & Mate 10 Pro,Touchscreen,TRUE,2017,17
+67,Huawei,Mate 20 & Mate 20 Pro,Touchscreen,TRUE,2018,17
+68,Samsung,Galaxy A01,Touchscreen,TRUE,2019,16.9
+69,HTC,ThunderBolt,Touchscreen,TRUE,2011,16
+70,Huawei,Mate 9,Touchscreen,TRUE,2016,15.8
+71,Samsung,Galaxy A11,Touchscreen,TRUE,2020,15.3
+72,Samsung,Galaxy J2 Core,Touchscreen,TRUE,2018,15.2
+73,Nokia,5610 XpressMusic,Slider,FALSE,2007,15
+74,Nokia,5800 XpressMusic,Touchscreen,TRUE,2008,15
+75,Nokia,E71,Keyboard bar,TRUE,2008,15
+76,Sony Ericsson,K300(K310),Bar,FALSE,2004,15
+77,Sony Ericsson,K750,Bar,FALSE,2005,15
+78,Sony Ericsson,W800(W810),Bar,FALSE,2006,15
+79,Research in Motion (RIM),BlackBerry Pearl,Bar,TRUE,2006,15
+80,Xiaomi,Redmi Note9 Pro,Touchscreen,TRUE,2020,15
+81,Samsung,"Galaxy S21, Galaxy S21+ & Galaxy S21 Ultra",Touchscreen,TRUE,2021,13.5
+82,Motorola,Droid Bionic,Touchscreen,TRUE,2011,13
+83,LG,Cookie(KP500),Touchscreen,FALSE,2009,13
+84,Huawei,Mate 30 & Mate 30 Pro,Touchscreen,TRUE,2019,12
+85,Samsung,Galaxy S22 Ultra,Touchscreen,TRUE,2022,10.9
+86,Samsung,SGH-E700,Flip phone,FALSE,2003,10
+87,Nokia,N95,Slider,TRUE,2007,10
+88,LG,Shine,Slider,FALSE,2008,10
+89,Samsung,Star/Tocco Lite (S5230),Touchscreen,FALSE,2009,10
+90,Samsung,Galaxy Note,Touchscreen,TRUE,2011,10
+91,Xiaomi,Mi 2,Touchscreen,TRUE,2012,10
+92,Samsung,Galaxy Note 3,Touchscreen,TRUE,2013,10
+93,LG,G3,Touchscreen,TRUE,2014,10
+94,Samsung,Galaxy Note 8,Touchscreen,TRUE,2017,10
+95,Xiaomi,Redmi 6A,Touchscreen,TRUE,2019,10
+96,Samsung,Galaxy S20 FE,Touchscreen,TRUE,2020,10
+97,Oppo,A5,Touchscreen,TRUE,2019,9.7
+98,Samsung,Galaxy Note 9,Touchscreen,TRUE,2018,9.6
+99,Samsung,Galaxy A30,Touchscreen,TRUE,2019,9.2
+100,Xiaomi,Redmi 8A,Touchscreen,TRUE,2019,7.3
+101,Oppo,F1 Plus,Touchscreen,TRUE,2016,7
+102,Xiaomi,Redmi 8,Touchscreen,TRUE,2019,6.8
+103,Samsung,Galaxy J4+,Touchscreen,TRUE,2018,6.4
+104,Apple,iPhone,Touchscreen,TRUE,2007,6
+105,LG,Viewty(KU990),Bar,FALSE,2007,5
+106,Samsung,Galaxy J6+,Touchscreen,TRUE,2018,4.9
+107,Samsung,Samsung Galaxy S24 Ultra,Touchscreen,TRUE,2024,4.9
+108,Samsung,Samsung Galaxy J9+,Touchscreen,TRUE,2014,4.5
+109,Samsung,Samsung Galaxy 414 4G,Touchscreen,TRUE,2023,4
+110,Samsung,Galaxy A10s,Touchscreen,TRUE,2019,3.9
+111,Samsung,Samsung Galaxy S23 FE,Touchscreen,TRUE,2023,3.8
+112,Samsung,Galaxy A30s,Touchscreen,TRUE,2019,3.4
+113,Nokia,N-Gage,Taco,TRUE,2003,3
+114,LG,G2,Touchscreen,TRUE,2013,3
+115,LeTV,LeEco Le 1s,Touchscreen,TRUE,2016,3
+116,Samsung,Samsung Galaxy A55,Touchscreen,TRUE,2024,2.7
+117,Samsung,Samsung Galaxy S24,Touchscreen,TRUE,2024,2.4
+118,Samsung,Samsung Galaxy A15 4G,Touchscreen,TRUE,2023,2.2
+119,Google,Pixel & Pixel XL,Touchscreen,TRUE,2016,2.1
+120,Palm,Centro,Keyboard bar,TRUE,2007,2
