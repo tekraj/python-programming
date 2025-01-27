@@ -6,10 +6,6 @@ def factorial(n):
     return result
 
 def sine(x, terms=10):
-    """Calculate sine of x using Taylor series expansion.
-    sin(x) = x - (x^3/3!) + (x^5/5!) - ..........
-    term(n) = (-1^n) * x ^(2n+1) / (2n+1)!  
-    """
     sine_sum = 0
     for n in range(0,terms):
         sign = (-1) ** n
