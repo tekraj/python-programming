@@ -12,7 +12,7 @@ def divide(a, b):
         raise ValueError("Cannot divide by zero.")
     return a / b
 
-def exponential(a, b):
+def exponentiate(a, b):
     return a ** b
 
 def modulus(a, b):
